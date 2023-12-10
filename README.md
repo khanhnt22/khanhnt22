@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently studying ...
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/657424505145316d25da6180?variant=dark)](https://roadmap.sh)
 <!--
 **khanhnt22/khanhnt22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
